@@ -1,8 +1,277 @@
-# Simple package
+# english contractions
 
-name: simple-package 
+name: contractions-en
 parent: default
-
 matches:
-  - trigger: ":hw"
-    replace: "hello world"
+  - trigger: "oclock"
+    replace: "o’clock"
+    propagate_case: true
+    word: true
+  - trigger: "abovesd"
+    replace: "aboves’d"
+    propagate_case: true
+    word: true
+  - trigger: "aftert"
+    replace: "after’t"
+    propagate_case: true
+    word: true
+  - trigger: "aight"
+    replace: "a’ight"
+    propagate_case: true
+    word: true
+  - trigger: "aintcha"
+    replace: "ain’tcha"
+    propagate_case: true
+    word: true
+  - trigger: "alls"
+    replace: "all’s"
+    propagate_case: true
+    word: true
+  - trigger: "ands"
+    replace: "and’s"
+    propagate_case: true
+    word: true
+  - trigger: "anybodys"
+    replace: "anybody’s"
+    propagate_case: true
+    word: true
+  - trigger: "arent"
+    replace: "aren’t"
+    propagate_case: true
+    word: true
+  - trigger: "arenchu"
+    replace: "aren’chu"
+    propagate_case: true
+    word: true
+  - trigger: "aright"
+    replace: "a’right"
+    propagate_case: true
+    word: true
+  - trigger: "baint"
+    replace: "bain’t"
+    propagate_case: true
+    word: true
+  - trigger: "beant"
+    replace: "bean’t"
+    propagate_case: true
+    word: true
+  - trigger: "beforet"
+    replace: "before’t"
+    propagate_case: true
+    word: true
+  - trigger: "bettern"
+    replace: "better’n"
+    propagate_case: true
+    word: true
+  - trigger: "betternt"
+    replace: "bettern’t"
+    propagate_case: true
+    word: true
+  - trigger: "bisnt"
+    replace: "bisn’t"
+    propagate_case: true
+    word: true
+  - trigger: "blong"
+    replace: "b’long"
+    propagate_case: true
+    word: true
+  - trigger: "brer"
+    replace: "br’er"
+    propagate_case: true
+    word: true
+  - trigger: "caint"
+    replace: "cain’t"
+    propagate_case: true
+    word: true
+  - trigger: "callt"
+    replace: "call’t"
+    propagate_case: true
+    word: true
+  - trigger: "camst"
+    replace: "cam’st"
+    propagate_case: true
+    word: true
+  - trigger: "cant"
+    replace: "can’t"
+    propagate_case: true
+    word: true
+  - trigger: "cannt"
+    replace: "can’t"
+    propagate_case: true
+    word: true
+  - trigger: "cantcha"
+    replace: "can’tcha"
+    propagate_case: true
+    word: true
+  - trigger: "canve"
+    replace: "can’ve"
+    propagate_case: true
+    word: true
+  - trigger: "capn"
+    replace: "cap’n"
+    propagate_case: true
+    word: true
+  - trigger: "casnt"
+    replace: "casn’t"
+    propagate_case: true
+    word: true
+  - trigger: "cmere"
+    replace: "c’mere"
+    propagate_case: true
+    word: true
+  - trigger: "cmin"
+    replace: "c’min"
+    propagate_case: true
+    word: true
+  - trigger: "cmon"
+    replace: "c’mon"
+    propagate_case: true
+    word: true
+  - trigger: "Cols"
+    replace: "Col’s"
+    propagate_case: true
+    word: true
+  - trigger: "couldnt"
+    replace: "couldn’t"
+    propagate_case: true
+    word: true
+  - trigger: "couldnve"
+    replace: "couldn’ve"
+    propagate_case: true
+    word: true
+  - trigger: "couldve"
+    replace: "could’ve"
+    propagate_case: true
+    word: true
+  - trigger: "cudnt"
+    replace: "cudn’t"
+    propagate_case: true
+    word: true
+  - trigger: "damfidont"
+    replace: "damfidon’t"
+    propagate_case: true
+    word: true
+  - trigger: "darednt"
+    replace: "daredn’t"
+    propagate_case: true
+    word: true
+  - trigger: "darent"
+    replace: "daren’t"
+    propagate_case: true
+    word: true
+  - trigger: "dasnt"
+    replace: "dasn’t"
+    propagate_case: true
+    word: true
+  - trigger: "dassnt"
+    replace: "dassn’t"
+    propagate_case: true
+    word: true
+  - trigger: "deres"
+    replace: "dere’s"
+    propagate_case: true
+    word: true
+  - trigger: "ders"
+    replace: "der’s"
+    propagate_case: true
+    word: true
+  - trigger: "didnt"
+    replace: "didn’t"
+    propagate_case: true
+    word: true
+  - trigger: "didntcha"
+    replace: "didn’tcha"
+    propagate_case: true
+    word: true
+  - trigger: "didntchya"
+    replace: "didn’tchya"
+    propagate_case: true
+    word: true
+  - trigger: "dint"
+    replace: "din’t"
+    propagate_case: true
+    word: true
+  - trigger: "doesnt"
+    replace: "doesn’t"
+    propagate_case: true
+    word: true
+  - trigger: "doest"
+    replace: "does’t"
+    propagate_case: true
+    word: true
+  - trigger: "dont"
+    replace: "don’t"
+    propagate_case: true
+    word: true
+  - trigger: "dont cha"
+    replace: "don’t cha"
+    propagate_case: true
+    word: true
+  - trigger: "dontcha"
+    replace: "don’tcha"
+    propagate_case: true
+    word: true
+  - trigger: "dothnt"
+    replace: "dothn’t"
+    propagate_case: true
+    word: true
+  - trigger: "dudnt"
+    replace: "dudn’t"
+    propagate_case: true
+    word: true
+  - trigger: "dunt"
+    replace: "dun’t"
+    propagate_case: true
+    word: true
+  - trigger: "dursent"
+    replace: "dursen’t"
+    propagate_case: true
+    word: true
+  - trigger: "dursnt"
+    replace: "dursn’t"
+    propagate_case: true
+    word: true
+  - trigger: "durstnt"
+    replace: "durstn’t"
+    propagate_case: true
+    word: true
+  - trigger: "dya"
+    replace: "d’ya"
+    propagate_case: true
+    word: true
+  - trigger: "dye"
+    replace: "d’ye"
+    propagate_case: true
+    word: true
+  - trigger: "dyer"
+    replace: "d’yer"
+    propagate_case: true
+    word: true
+  - trigger: "dyou"
+    replace: "d’you"
+    propagate_case: true
+    word: true
+  - trigger: "evry"
+    replace: "ev’ry"
+    propagate_case: true
+    word: true
+  - trigger: "everybodys"
+    replace: "everybody’s"
+    propagate_case: true
+    word: true
+  - trigger: "fars"
+    replace: "far’s"
+    propagate_case: true
+    word: true
+  - trigger: "fort"
+    replace: "for’t"
+    propagate_case: true
+    word: true
+  - trigger: "frever"
+    replace: "f’rever"
+    propagate_case: true
+    word: true
+  - trigger: "frexample"
+    replace: "f’rexample"
+    propagate_case: true
+    word: true
