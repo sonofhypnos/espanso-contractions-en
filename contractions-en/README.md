@@ -1,7 +1,7 @@
 ---
 package_name: "contractions-en"
 package_title: "English Contractions Autocorrection"
-package_desc: "This package adds Apostrophes to your contractions."
+package_desc: "This package adds apostrophes to your contractions."
 package_version: "0.1.0"
 package_author: "Tassilo Neubauer"
 package_repo: "https://github.com/sonofhypnos/espanso-contractions-en"
