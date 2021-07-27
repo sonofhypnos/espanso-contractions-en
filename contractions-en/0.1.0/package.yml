@@ -111,10 +111,6 @@ matches:
     replace: 'he’d'
     propagate_case: true
     word: true
-  - trigger: 'hell'
-    replace: 'he’ll'
-    propagate_case: true
-    word: true
   - trigger: 'hes'
     replace: 'he’s'
     propagate_case: true
@@ -141,10 +137,6 @@ matches:
     word: true
   - trigger: 'hows'
     replace: 'how’s'
-    propagate_case: true
-    word: true
-  - trigger: 'Id'
-    replace: 'I’d'
     propagate_case: true
     word: true
   - trigger: 'Ill'
@@ -309,10 +301,6 @@ matches:
     word: true
   - trigger: 'wed'
     replace: 'we’d'
-    propagate_case: true
-    word: true
-  - trigger: 'were'
-    replace: 'we’re'
     propagate_case: true
     word: true
   - trigger: 'weve'

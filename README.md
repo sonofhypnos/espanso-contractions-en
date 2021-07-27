@@ -41,7 +41,6 @@ hadve | had’ve
 hasnt | hasn’t
 havent | haven’t
 hed | he’d
-hell | he’ll
 hes | he’s
 heres | here’s
 heve | he’ve
@@ -49,7 +48,6 @@ howd | how’d
 howll | how’ll
 howre | how’re
 hows | how’s
-Id | I’d
 Ill | I’ll
 Im | I’m
 Ive | I’ve
@@ -91,7 +89,6 @@ tween | ’tween
 twere | ’twere
 wasnt | wasn’t
 wed | we’d
-were | we’re
 weve | we’ve
 werent | weren’t
 whatd | what’d
