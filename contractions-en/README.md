@@ -14,7 +14,6 @@ aint | ain’t
 amnt | amn’t
 arent | aren’t
 cant | can’t
-cause | ’cause
 couldve | could’ve
 couldnt | couldn’t
 darent | daren’t
@@ -45,7 +44,6 @@ howll | how’ll
 howre | how’re
 hows | how’s
 Id | I’d
-Ill | I’ll
 Im | I’m
 Ive | I’ve
 isnt | isn’t
@@ -64,6 +62,8 @@ oclock | o’clock
 oer | o’er
 ol | ol’
 oughtnt | oughtn’t
+shouldve | shoud’ve
+shoudnt | shoudn’t
 thatd | that’d
 thered | there’d
 therell | there’ll
