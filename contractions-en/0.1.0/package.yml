@@ -215,6 +215,14 @@ matches:
     replace: 'oughtn’t'
     propagate_case: true
     word: true
+  - trigger: 'shouldve'
+    replace: 'should’ve'
+    propagate_case: true
+    word: true
+  - trigger: 'shouldnt'
+    replace: 'shouldn’t'
+    propagate_case: true
+    word: true
   - trigger: 'thatd'
     replace: 'that’d'
     propagate_case: true
