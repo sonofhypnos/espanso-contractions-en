@@ -23,10 +23,6 @@ matches:
     replace: 'can’t'
     propagate_case: true
     word: true
-  - trigger: 'cause'
-    replace: '’cause'
-    propagate_case: true
-    word: true
   - trigger: 'couldve'
     replace: 'could’ve'
     propagate_case: true
@@ -137,10 +133,6 @@ matches:
     word: true
   - trigger: 'hows'
     replace: 'how’s'
-    propagate_case: true
-    word: true
-  - trigger: 'Ill'
-    replace: 'I’ll'
     propagate_case: true
     word: true
   - trigger: 'Im'
