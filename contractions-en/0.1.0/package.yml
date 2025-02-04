@@ -383,10 +383,6 @@ matches:
     replace: 'who’ll'
     propagate_case: true
     word: true
-  - trigger: 'whore'
-    replace: 'who’re'
-    propagate_case: true
-    word: true
   - trigger: 'whos'
     replace: 'who’s'
     propagate_case: true
@@ -409,10 +405,6 @@ matches:
     word: true
   - trigger: 'willnt'
     replace: 'willn’t'
-    propagate_case: true
-    word: true
-  - trigger: 'wont'
-    replace: 'won’t'
     propagate_case: true
     word: true
   - trigger: 'wouldve'
