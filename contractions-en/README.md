@@ -22,7 +22,6 @@ dasnt | dasn’t
 didnt | didn’t
 doesnt | doesn’t
 dont | don’t
-dye | d’ye
 een | e’en
 eer | e’er
 everybodys | everybody’s
@@ -107,7 +106,6 @@ whichs | which’s
 whichve | which’ve
 whod | who’d
 wholl | who’ll
-whore | who’re
 whos | who’s
 whove | who’ve
 whyd | why’d
